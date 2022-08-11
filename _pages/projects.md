@@ -6,7 +6,7 @@ description: Various projects I have been involved with.
 nav: true
 nav_order: 2
 display_categories: [study, work, fun]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
