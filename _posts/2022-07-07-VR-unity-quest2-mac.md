@@ -3,7 +3,7 @@ layout: post
 title:  Developing for the Oculus (Meta) Quest 2 with Unity on Apple Silicon Macs (M1, M2)
 date:   2022-07-07
 description: 
-tags: Virtual-Reality Unity Oculus Quest 2 Mac M1 M2 Apple-Silicon
+tags: virtual-reality Unity Oculus Quest-2 Mac M1 M2 Apple-Silicon
 categories: software-development
 ---
 Most online resources claim that it is not possible to develop for the Meta Quest 2 in Unity with Apple Silicon Macs (such as my 2020 Macbook Pro with a M1 ARM chip). This not true. It may not be an entirely optimal process, but it is very much possible. And with acceptable speed at that (the first build will take a lot longer though):
