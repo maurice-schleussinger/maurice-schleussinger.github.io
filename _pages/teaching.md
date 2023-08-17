@@ -6,8 +6,12 @@ description: A list of the courses I taught.
 nav: true
 nav_order: 5
 ---
+### Department of Computer and Systems Sciences, Stockholm University, Stockholm (Sweden)
+#### 2023
+- Scientific Communication and Research Methodology
+- Design for Emerging Technologies
 
-### Heinrich Heine University, Düsseldorf (Germany)
+### Department Heinrich Heine University, Düsseldorf (Germany)
 #### 2021
 - I4 Projektseminar Angewandte Informationswissenschaft (course on applied Information Science and programming in Python)
 - Programming in Python from Scratch (Python programming for absolute beginners from other faculties)
